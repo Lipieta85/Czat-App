@@ -28,8 +28,10 @@
     "optimize-js-plugin": "0.0.4",
     "react-hot-loader": "^4.3.4",
     "style-loader": "^0.21.0",
+    "uglifyjs-webpack-plugin": "^1.2.7",
     "webpack": "^4.16.4",
     "webpack-cli": "^3.1.0",
-    "webpack-dev-server": "^3.1.5"
+    "webpack-dev-server": "^3.1.5",
+    "webpack-hot-client": "^4.1.1"
   }
 }
